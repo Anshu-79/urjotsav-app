@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "173717731683",
+    "firebase_url": "https://urjotsav-2k24-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "urjotsav-2k24",
+    "storage_bucket": "urjotsav-2k24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173717731683:android:2905dbb96daa020902fb56",
+        "android_client_info": {
+          "package_name": "com.rgipt.urjotsav"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2zGPIAuoI2wzbBv6J2POJks-wW-9CoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

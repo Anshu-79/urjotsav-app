@@ -1,4 +1,4 @@
-package com.example.urjotsav
+package com.rgipt.urjotsav
 
 import io.flutter.embedding.android.FlutterActivity
 

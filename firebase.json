@@ -1,12 +1,1 @@
-{
-  "database": {
-    "rules": "database.rules.json"
-  },
-  "firestore": {
-    "rules": "firestore.rules",
-    "indexes": "firestore.indexes.json"
-  },
-  "storage": {
-    "rules": "storage.rules"
-  }
-}
+{"database":{"rules":"database.rules.json"},"firestore":{"rules":"firestore.rules","indexes":"firestore.indexes.json"},"storage":{"rules":"storage.rules"},"flutter":{"platforms":{"android":{"default":{"projectId":"urjotsav-2k24","appId":"1:173717731683:android:2905dbb96daa020902fb56","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"urjotsav-2k24","configurations":{"android":"1:173717731683:android:2905dbb96daa020902fb56","ios":"1:173717731683:ios:c488883800ca1d1702fb56","macos":"1:173717731683:ios:c488883800ca1d1702fb56","web":"1:173717731683:web:79526907ac223f0702fb56","windows":"1:173717731683:web:e746106bd98bb97402fb56"}}}}}}

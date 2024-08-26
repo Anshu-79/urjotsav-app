@@ -27,7 +27,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        fontFamily: 'Jost',
+        textTheme: TextTheme(),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue.shade600),
         useMaterial3: true,
       ),
       home: onboard ? HomeScreen() : LoginScreen(prefs: prefs),

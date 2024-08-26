@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>173717731683-qhtfegngps3q77jm4uuaa8k7pos7891t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.173717731683-qhtfegngps3q77jm4uuaa8k7pos7891t</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>173717731683-p7n2snqtjostjr0aovh7ceo45d9h38hm.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCUwal6tzMDXXvSHPluMYqRj_qqMvJpZhA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>173717731683</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.urjotsav</string>
+	<key>PROJECT_ID</key>
+	<string>urjotsav-2k24</string>
+	<key>STORAGE_BUCKET</key>
+	<string>urjotsav-2k24.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:173717731683:ios:c488883800ca1d1702fb56</string>
+	<key>DATABASE_URL</key>
+	<string>https://urjotsav-2k24-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -13,7 +13,20 @@
           "package_name": "com.rgipt.urjotsav"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "173717731683-p7n2snqtjostjr0aovh7ceo45d9h38hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rgipt.urjotsav",
+            "certificate_hash": "e3199e7cab6ba819731146b488648aba0b413d85"
+          }
+        },
+        {
+          "client_id": "173717731683-59rfjnba5unh780nh31tbu41fj995u2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDO2zGPIAuoI2wzbBv6J2POJks-wW-9CoY"
@@ -21,7 +34,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173717731683-59rfjnba5unh780nh31tbu41fj995u2m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "173717731683-qhtfegngps3q77jm4uuaa8k7pos7891t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.urjotsav"
+              }
+            }
+          ]
         }
       }
     }

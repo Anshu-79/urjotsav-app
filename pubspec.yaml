@@ -42,6 +42,8 @@ dependencies:
   auto_size_text: ^3.0.0
   blur: ^4.0.0
   animated_toggle_switch: ^0.8.3
+  firebase_auth: ^5.1.4
+  google_sign_in: ^6.2.1
 
 dev_dependencies:
   flutter_test:
@@ -84,7 +86,7 @@ flutter:
     - family: Megrim
       fonts:
         - asset: assets/fonts/Megrim-Regular.ttf
-    - family: CeraPro
+    - family: Jost
       fonts:
       - asset: assets/fonts/Jost-BlackItalic.ttf
         weight: 900
@@ -123,7 +125,7 @@ flutter:
         weight: 500
       - asset: assets/fonts/Jost-Italic.ttf
         style: italic
-      - asset: assets/fonts/Jost-Thin-Italic.ttf
+      - asset: assets/fonts/Jost-ThinItalic.ttf
         style: italic
         weight: 100
       - asset: assets/fonts/Jost-Thin.ttf
